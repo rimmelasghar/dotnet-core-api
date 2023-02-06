@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32930.78
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WE_SECB_API", "WE_SECB_API\WE_SECB_API.csproj", "{B770B996-1C18-4C77-BDF1-5EAE62AB4E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B770B996-1C18-4C77-BDF1-5EAE62AB4E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B770B996-1C18-4C77-BDF1-5EAE62AB4E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B770B996-1C18-4C77-BDF1-5EAE62AB4E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B770B996-1C18-4C77-BDF1-5EAE62AB4E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B8C93E-4BD8-495E-9764-A82E148D0ADA}
+	EndGlobalSection
+EndGlobal

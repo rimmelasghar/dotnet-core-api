@@ -1,0 +1,17 @@
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\WE_SECB_API.exe
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\WE_SECB_API.dll
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\WE_SECB_API.deps.json
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\WE_SECB_API.runtimeconfig.json
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\WE_SECB_API.pdb
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ah_su\source\repos\WE_SECB_API\WE_SECB_API\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
